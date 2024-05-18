@@ -1,0 +1,113 @@
+icache.ipa dumps/vmlinux.dump 
+icache.ialls dumps/vmlinux.dump 
+dcache.cpa dumps/u-boot.dump dumps/vmlinux.dump 
+icache.iva dumps/coremark.dump dumps/fio.dump dumps/busybox.dump dumps/u-boot.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+dcache.ciall dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump 
+dcache.cva dumps/vmlinux.dump 
+dcache.cval1 dumps/vmlinux.dump 
+dcache.ipa dumps/vmlinux.dump 
+dcache.iva dumps/vmlinux.dump 
+dcache.cisw dumps/coremark.dump dumps/vmlinux.dump 
+dcache.cpal1 dumps/vmlinux.dump 
+l2cache.call dumps/vmlinux.dump 
+dcache.csw dumps/vmlinux.dump 
+l2cache.ciall
+dcache.iall dumps/busybox.dump dumps/botan-test.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+dcache.cipa dumps/u-boot.dump dumps/vmlinux.dump 
+icache.iall dumps/botan.dump dumps/fio.dump dumps/strace.dump dumps/coremark.dump dumps/u-boot.dump dumps/busybox.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+l2cache.iall
+dcache.civa dumps/vmlinux.dump 
+dcache.isw dumps/vmlinux.dump 
+dcache.call dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lwuib dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+swib dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/strace.dump dumps/libbotan-2.so.17.dump dumps/botan-test.dump dumps/fio.dump dumps/vmlinux.dump 
+lbuib dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lurwu dumps/libbotan-2.so.17.dump dumps/busybox.dump dumps/coremark.dump dumps/fio.dump dumps/vmlinux.dump 
+srb dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/libz.so.1.2.11.dump dumps/bash.dump dumps/strace.dump dumps/sqlite3.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/botan-test.dump dumps/u-boot.dump dumps/vmlinux.dump 
+srw dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/libbotan-2.so.17.dump dumps/bash.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/sqlite3.dump dumps/fio.dump dumps/botan-test.dump 
+lrwu dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/strace.dump dumps/bash.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lurd dumps/busybox.dump dumps/strace.dump dumps/coremark.dump dumps/sqlite3.dump dumps/fio.dump dumps/bash.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lbia dumps/bash.dump dumps/botan-test.dump dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/coremark.dump dumps/sqlite3.dump dumps/fio.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lrhu dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/fio.dump dumps/sqlite3.dump dumps/bash.dump dumps/strace.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lurh dumps/coremark.dump dumps/libz.so.1.2.11.dump dumps/busybox.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/fio.dump dumps/vmlinux.dump 
+lurhu dumps/coremark.dump dumps/libz.so.1.2.11.dump dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+surb dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/coremark.dump dumps/strace.dump dumps/fio.dump dumps/bash.dump dumps/busybox.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+sdia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/strace.dump dumps/botan-test.dump dumps/fio.dump dumps/sqlite3.dump dumps/bash.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+surw dumps/strace.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/fio.dump dumps/busybox.dump dumps/u-boot.dump dumps/vmlinux.dump 
+shia dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/strace.dump dumps/bash.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/botan-test.dump dumps/u-boot.dump dumps/vmlinux.dump 
+srd dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lwib dumps/busybox.dump dumps/coremark.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/botan-test.dump dumps/vmlinux.dump 
+lhuib dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+srh dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/libbotan-2.so.17.dump dumps/coremark.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/botan-test.dump dumps/vmlinux.dump 
+sbia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/fio.dump dumps/bash.dump dumps/strace.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+surd dumps/bash.dump dumps/strace.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lurb dumps/busybox.dump dumps/sqlite3.dump dumps/strace.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/fio.dump dumps/bash.dump dumps/libbotan-2.so.17.dump dumps/botan-test.dump dumps/vmlinux.dump 
+surh dumps/coremark.dump dumps/libz.so.1.2.11.dump dumps/busybox.dump dumps/fio.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lhia dumps/busybox.dump dumps/coremark.dump dumps/bash.dump dumps/strace.dump dumps/fio.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lurw dumps/ramspeed.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/coremark.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/u-boot.dump dumps/vmlinux.dump 
+ldia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lhib dumps/busybox.dump dumps/coremark.dump dumps/bash.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lrd dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/sqlite3.dump dumps/libz.so.1.2.11.dump dumps/fio.dump dumps/bash.dump dumps/strace.dump dumps/udevd.dump dumps/botan-test.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+ldib dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/libbotan-2.so.17.dump dumps/fio.dump dumps/botan-test.dump dumps/u-boot.dump dumps/vmlinux.dump 
+sbib dumps/sqlite3.dump dumps/busybox.dump dumps/bash.dump dumps/strace.dump dumps/coremark.dump dumps/fio.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lrh dumps/busybox.dump dumps/sqlite3.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/fio.dump dumps/bash.dump dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/botan-test.dump dumps/vmlinux.dump 
+lwia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/botan-test.dump dumps/fio.dump dumps/strace.dump dumps/bash.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lhuia dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/coremark.dump dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+sdib dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/botan-test.dump dumps/vmlinux.dump 
+shib dumps/fio.dump dumps/busybox.dump dumps/vmlinux.dump 
+lrw dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/bash.dump dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/fio.dump dumps/strace.dump dumps/botan-test.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lbib dumps/libbotan-2.so.17.dump dumps/coremark.dump dumps/bash.dump dumps/fio.dump dumps/busybox.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lrb dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/bash.dump dumps/libz.so.1.2.11.dump dumps/libbotan-2.so.17.dump dumps/fio.dump dumps/botan-test.dump dumps/strace.dump dumps/sqlite3.dump dumps/udevd.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lurbu dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/coremark.dump dumps/strace.dump dumps/fio.dump dumps/bash.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lwuia dumps/bash.dump dumps/libz.so.1.2.11.dump dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+swia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/fio.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lbuia dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/fio.dump dumps/sqlite3.dump dumps/bash.dump dumps/strace.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lrbu dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/fio.dump dumps/sqlite3.dump dumps/bash.dump dumps/udevd.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+ipop
+ipush
+ext dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/libbotan-2.so.17.dump dumps/ramspeed.dump dumps/bash.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/udevd.dump dumps/strace.dump dumps/botan-test.dump dumps/sqlite3.dump dumps/fio.dump 
+srriw dumps/busybox.dump dumps/fio.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+extu dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/bash.dump dumps/botan-test.dump dumps/ramspeed.dump dumps/sqlite3.dump dumps/fio.dump dumps/vmlinux.dump 
+rev dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/busybox.dump dumps/ramspeed.dump dumps/sqlite3.dump dumps/fio.dump dumps/strace.dump dumps/bash.dump dumps/udevd.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump 
+revw dumps/busybox.dump dumps/coremark.dump dumps/fio.dump dumps/sqlite3.dump dumps/strace.dump dumps/udevd.dump dumps/bash.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+ff0 dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/libbotan-2.so.17.dump dumps/ramspeed.dump dumps/bash.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/udevd.dump dumps/strace.dump dumps/botan-test.dump dumps/sqlite3.dump dumps/fio.dump 
+srri dumps/busybox.dump dumps/sqlite3.dump dumps/fio.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+tstnbz dumps/coremark.dump dumps/busybox.dump dumps/vmlinux.dump 
+ff1 dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/libbotan-2.so.17.dump dumps/ramspeed.dump dumps/bash.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/udevd.dump dumps/strace.dump dumps/botan-test.dump dumps/sqlite3.dump dumps/fio.dump 
+sync.is dumps/u-boot.dump dumps/vmlinux.dump 
+sync.s dumps/vmlinux.dump dumps/bash.dump dumps/libbotan-2.so.17.dump 
+sync dumps/botan.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump dumps/busybox.dump dumps/fio.dump dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/libbotan-2.so.17.dump dumps/bash.dump dumps/botan-test.dump 
+sync.i dumps/u-boot.dump dumps/fio.dump dumps/vmlinux.dump 
+sfence.vmas dumps/botan.dump dumps/libbotan-2.so.17.dump dumps/coremark.dump dumps/u-boot.dump dumps/strace.dump dumps/bash.dump dumps/fio.dump dumps/busybox.dump dumps/botan-test.dump dumps/vmlinux.dump 
+mulaw dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/coremark.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/u-boot.dump dumps/vmlinux.dump 
+mulah dumps/sqlite3.dump dumps/coremark.dump dumps/busybox.dump dumps/u-boot.dump dumps/fio.dump dumps/vmlinux.dump 
+mulsw dumps/u-boot.dump dumps/coremark.dump dumps/vmlinux.dump 
+muls dumps/botan.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/busybox.dump dumps/fio.dump dumps/u-boot.dump dumps/vmlinux.dump 
+mula dumps/botan.dump dumps/coremark.dump dumps/ramspeed.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/libbotan-2.so.17.dump dumps/sqlite3.dump dumps/strace.dump dumps/bash.dump dumps/fio.dump dumps/vmlinux.dump dumps/botan-test.dump dumps/u-boot.dump 
+mulsh dumps/fio.dump dumps/coremark.dump dumps/busybox.dump dumps/u-boot.dump dumps/vmlinux.dump 
+fmv.hw.x
+fmv.x.hw
+fsrd dumps/ramspeed.dump dumps/busybox.dump dumps/coremark.dump dumps/fio.dump dumps/u-boot.dump dumps/vmlinux.dump 
+fsrw dumps/botan.dump dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/busybox.dump dumps/fio.dump dumps/coremark.dump dumps/u-boot.dump dumps/vmlinux.dump 
+fsurd dumps/bash.dump dumps/fio.dump dumps/coremark.dump dumps/busybox.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+flurw dumps/u-boot.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/busybox.dump dumps/vmlinux.dump 
+flrw dumps/strace.dump dumps/busybox.dump dumps/fio.dump dumps/u-boot.dump dumps/botan-test.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+flurd dumps/sqlite3.dump dumps/busybox.dump dumps/u-boot.dump dumps/fio.dump dumps/vmlinux.dump 
+fsurw dumps/libbotan-2.so.17.dump dumps/fio.dump dumps/coremark.dump dumps/u-boot.dump dumps/busybox.dump dumps/vmlinux.dump 
+flrd dumps/fio.dump dumps/coremark.dump dumps/busybox.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+mveqz dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/fio.dump dumps/bash.dump dumps/strace.dump dumps/botan-test.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+mvnez dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/libz.so.1.2.11.dump dumps/strace.dump dumps/sqlite3.dump dumps/fio.dump dumps/bash.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+addsl dumps/botan.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/busybox.dump dumps/ramspeed.dump dumps/bash.dump dumps/libz.so.1.2.11.dump dumps/fio.dump dumps/strace.dump dumps/sqlite3.dump dumps/botan-test.dump dumps/u-boot.dump dumps/vmlinux.dump 
+tst dumps/busybox.dump dumps/strace.dump dumps/botan-test.dump dumps/vmlinux.dump dumps/u-boot.dump dumps/fio.dump dumps/coremark.dump dumps/bash.dump dumps/libbotan-2.so.17.dump 
+vmaqa.vv dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/fio.dump dumps/busybox.dump dumps/u-boot.dump dumps/vmlinux.dump 
+vmaqaus.vx dumps/coremark.dump dumps/busybox.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+vmaqau.vv dumps/fio.dump dumps/u-boot.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/busybox.dump dumps/vmlinux.dump 
+vmaqasu.vv dumps/busybox.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+vmaqasu.vx dumps/fio.dump dumps/coremark.dump dumps/busybox.dump dumps/vmlinux.dump 
+vmaqau.vx dumps/coremark.dump dumps/busybox.dump dumps/u-boot.dump dumps/fio.dump dumps/vmlinux.dump 
+vmaqa.vx dumps/botan-test.dump dumps/coremark.dump dumps/busybox.dump dumps/vmlinux.dump 
+ldd dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/bash.dump dumps/libz.so.1.2.11.dump dumps/sqlite3.dump dumps/fio.dump dumps/strace.dump dumps/vmlinux.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump 
+swd dumps/busybox.dump dumps/fio.dump dumps/sqlite3.dump dumps/bash.dump dumps/strace.dump dumps/coremark.dump dumps/libbotan-2.so.17.dump dumps/u-boot.dump dumps/vmlinux.dump 
+lwud dumps/coremark.dump dumps/busybox.dump dumps/fio.dump dumps/libbotan-2.so.17.dump dumps/vmlinux.dump 
+lwd dumps/fio.dump dumps/strace.dump dumps/busybox.dump dumps/coremark.dump dumps/libz.so.1.2.11.dump dumps/bash.dump dumps/u-boot.dump dumps/libbotan-2.so.17.dump dumps/botan-test.dump dumps/vmlinux.dump 
+sdd dumps/botan.dump dumps/coremark.dump dumps/busybox.dump dumps/ramspeed.dump dumps/libz.so.1.2.11.dump dumps/botan-test.dump dumps/libbotan-2.so.17.dump dumps/strace.dump dumps/sqlite3.dump dumps/bash.dump dumps/fio.dump dumps/vmlinux.dump 
