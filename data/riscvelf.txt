@@ -1,0 +1,14 @@
+bash
+botan
+botan-test
+busybox
+coremark
+fio
+libbotan-2.so.17
+libtool
+libz.so.1.2.11
+ramspeed
+sqlite3
+strace
+u-boot
+vmlinux

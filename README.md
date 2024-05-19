@@ -16,11 +16,13 @@ make
 
 - `scripts/samples.sh` - search through dissasembly files and gather up to two samples for the given instructions
 - `scripts/search.sh` - search through dissasembly files and find which files contain the given instructions
+- `scripts/dump.sh` - go through a list of files and generate their objdump
 - `scripts/adoc-extrac.py` - search recursively through `.adoc` files and extract the instructions
 - `scripts/bb.py` - manipulated 32-bit numbers
 
 ## Data
 
 - list of instructions is in `data/ins.txt`
+- a list of sample files names is in `data/riscvelf.txt`
 - executable names containing instructions are in `data/samples.txt`
 - instructions and their corresponding `.adoc` file names are in `data/files.txt`
