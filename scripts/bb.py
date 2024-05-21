@@ -15,8 +15,9 @@ def main(args):
     if args.option == 'd':
         args.file.write(dump(number))
     else:
-        x = display(number)
-        print(x[args.first_bit:args.last_bit])
+        x = display(number)[::-1]
+        x = x[args.first_bit:args.last_bit]
+        print(x[::-1])
 
 
 if __name__ == '__main__':
